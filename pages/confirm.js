@@ -91,5 +91,5 @@ const ButtonContainer = tw.div`
 rounded-full absolute top-4 left-4 z-10 bg-white shodow-md cursor-pointer hover:scale-95
 `
 const BackButton = tw.img`
-h-full object-contain
+h-[2.5rem] object-contain 
 `
